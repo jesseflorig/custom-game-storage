@@ -20,7 +20,7 @@ Felt designs are made for cutting out sticky-back *stiff* felt.
 ## Use
 Feel free to cut them out for yourself, cut 'em out for your friends, or cut 'em out to sell to strangers! I don't really care as long as they provide good homes to great games!
 
-## Hey, where's all the fancy art?
+## Hey, where's all the game art?
 Unfortunately none of these are officially licensed for any games, so I can't include any of the copyrighted art in the files. I'm seeking permission from publishers, so this may change in the future.
 
 ## Contributing
