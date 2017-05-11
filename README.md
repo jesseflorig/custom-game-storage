@@ -17,6 +17,10 @@ All storage designs are made to be cut out of 1/8" material. Looks great in hard
 
 Felt designs are made for cutting out sticky-back *stiff* felt.
 
+Magic and SW Destiny card sizes are sized to Ultra Pro (Pro Matte) sleeves
+
+Everything else is sized to Fantasy Flight sleeves
+
 ## Use
 Feel free to cut them out for yourself, cut 'em out for your friends, or cut 'em out to sell to strangers! I don't really care as long as they provide good homes to great games!
 
